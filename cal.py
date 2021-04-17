@@ -1,5 +1,5 @@
 #Simple Calculator
-
+#this is developer 1 2nd-commit
 def add(a, b):
     return a + b = c+d
 
