@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 this is master val edit
+this is val edit by ios
+>>>>>>> IOS
