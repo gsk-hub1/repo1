@@ -1,5 +1,1 @@
-this is val first edit
-
-this is 3rd commit in val
-this is 4th commit lines 
-this is 5th commit
+this is master val edit
